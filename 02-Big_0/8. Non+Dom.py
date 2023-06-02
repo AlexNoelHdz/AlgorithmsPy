@@ -13,12 +13,13 @@ def print_items(n):
         print(k)
 
     # Result = (n^2 + n)
-    '''
-    As a percentaje, n becomes unsignificant 
-    Dominant term: n^2
-    Non dominant: term n
-    Drop non dominant
-    O(n^2)
-    '''    
+  
 
 print_items(10)
+'''
+As a percentaje, n becomes unsignificant 
+Dominant term: n^2
+Non dominant: term n
+Drop non dominant
+O(n^2)
+'''
